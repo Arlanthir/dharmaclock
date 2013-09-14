@@ -1,0 +1,36 @@
+{
+	"friendlyVersion": "dharma_res1",
+	"versionDefName": "DHARMA_RESOURCES",
+	"media": [
+		{
+			"type": "png",
+			"defName": "IMAGE_MENU_ICON",
+			"file": "images/icon.png"
+		},
+		{
+			"type": "png",
+			"defName": "IMAGE_DHARMA",
+			"file": "images/dharma.png"
+		},
+		{
+			"type": "png",
+			"defName": "IMAGE_DIVIDERS",
+			"file": "images/dividers.png"
+		},
+		{
+			"type": "png",
+			"defName": "IMAGE_FLIP",
+			"file": "images/flip.png"
+		},
+		{
+			"type": "png-trans",
+			"defName": "IMAGE_DIVIDERS_ALPHA",
+			"file": "images/dividers-alpha.png"
+		},
+		{
+			"type":"font",
+			"defName":"FONT_IMPACT_30",
+			"file":"fonts/impact_30.ttf"
+		}
+	]
+}
